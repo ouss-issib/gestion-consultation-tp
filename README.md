@@ -30,6 +30,9 @@ Développer une interface graphique pour **ajouter, modifier, supprimer et affic
 
 ## 🎥 Captures d'écran
 
+
+## Gestion des Patients  
+
 | Ajout de patinet | Avant La recherche du patient | Aprés La recherche |
 |---|---|---|
 | ![Ajout de patinet](./captures/add-patient.png) | ![Avant La recherche du patient](./captures/avant-rechercher-patient.png) | ![Aprés La recherche](./captures/apres-rechercher-patient.png) |
@@ -40,6 +43,7 @@ Développer une interface graphique pour **ajouter, modifier, supprimer et affic
 
 <hr>
 
+## Gestion des Consultations  
 
 | Avant l'Ajout Consultation | Aprés l'ajout d'une consultation | Recherche de produit |
 |---|---|---|
@@ -51,9 +55,12 @@ Développer une interface graphique pour **ajouter, modifier, supprimer et affic
 
  <hr>
  
-| Gestion des  Exceptions |
-|---|
-| ![Exception 1](./captures/handle-exception1.png)  ![Exception 2](./captures/handle-exception2.png)  ![Exception 3](./captures/handle-exception3.png) |
+## Gestion des Exceptions  
+
+| Exception 1 | Exception 2 | Exception 3 |
+|------------|------------|------------|
+| ![Exception 1](./captures/handle-exception1.png) | ![Exception 2](./captures/handle-exception2.png) | ![Exception 3](./captures/handle-exception3.png) |
+
 
 <hr>
    
